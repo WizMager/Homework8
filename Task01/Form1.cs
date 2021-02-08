@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Tak01;
 
-namespace SApp03
+namespace Task01
 {
     public partial class Form1 : Form
     {

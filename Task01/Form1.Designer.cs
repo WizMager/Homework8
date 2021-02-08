@@ -1,4 +1,4 @@
-﻿namespace SApp03
+﻿namespace Task01
 {
     partial class Form1
     {
